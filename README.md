@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Soy Fernando de Chile<br><br>- 📚 Estoy aprendiendo control de versión en Git<br>- 💻 Tengo una mentalidad analítica y muchas ganas de aprender nuevas tecnologías. <br>- 🔭 Estoy haciendo la transición hacia el mundo del desarrollo, centrándome especialmente en Python y estoy emocionado de aplicar estas habilidades en un contexto de desarrollo de software.</p>
+<p align="left">Soy Fernando Tapia<br><br>- 📚 Estoy tomando un curso en control de versión en Git<br>- 💻 Tengo una mentalidad analítica y muchas ganas de aprender nuevas tecnologías. <br>- 🔭 Estoy haciendo la transición hacia el mundo del desarrollo, centrándome especialmente en Python y estoy emocionado de aplicar estas habilidades en un contexto de desarrollo de software.</p>
 
 ###
 
